@@ -1,5 +1,12 @@
 ### Hi There 👋
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 I'm **Waldemar Barrientos**, a **Business Manager** with a strong background in technology, strategy, and leadership. My role bridges the gap between **business objectives** and **technical solutions**, ensuring that projects align with company goals and deliver measurable value. I thrive on optimizing workflows, fostering innovation, and implementing advanced technologies to enhance productivity and decision-making.
 
 ---
